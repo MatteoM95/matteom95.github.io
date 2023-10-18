@@ -7,15 +7,15 @@
     },
     {
       "id": 1,
-      "skillName": "SQL",
-      "amount": "90"
+      "skillName": "ML libraries",
+      "amount": "80"
     },
     {
       "id": 2,
-      "skillName": "Spark",
-      "amount": "85"
+      "skillName": "C++",
+      "amount": "70"
     },
-    { "id": 3, "skillName": "ML libraries", "amount": "85" },
+    { "id": 3, "skillName": "C++", "amount": "85" },
     {
       "id": 4,
       "skillName": "JavaScript",
@@ -27,10 +27,10 @@
       "amount": "70"
     },
     { "id": 6, "skillName": "C", "amount": "70" },
-    { "id": 7, "skillName": "Firebase", "amount": "70" },
+    { "id": 7, "skillName": "Matlab", "amount": "70" },
     {
       "id": 8,
-      "skillName": "AWS",
+      "skillName": "Pytorch",
       "amount": "60"
     }
   ]

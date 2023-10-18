@@ -2,16 +2,16 @@
   "experience": [
     {
       "id": 0,
-      "link": "https://github.com/AndreaGhiglione/data-science-lab/tree/main/Regression%20project",
+      "link": "https://github.com/MatteoM95/Real-time-Domain-Adaptation-in-Semantic-Segmentation",
       "company": "Politecnico di Torino",
-      "title": "Wine's quality prediction",
-      "dateFrom": "September 2020",
-      "dateTo": "January 2021",
+      "title": "A class-based styling approach for Real-Time Domain Adaptation in Semantic Segmentation",
+      "dateFrom": "April 2021",
+      "dateTo": "July 2021",
       "info": [
         "Apply several encoding techniques and try different ML models in a case where only categorical features are provided",
         "Try different data cleaning processes and use a grid-search approach to achieve the best result"
       ],
-      "stack": ["Python", "Scikit-learn", "Seaborn"],
+      "stack": ["Python", "PyTorch", "TensorBoard"],
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
       "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
