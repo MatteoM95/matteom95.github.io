@@ -1,0 +1,37 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Python",
+      "amount": "90"
+    },
+    {
+      "id": 1,
+      "skillName": "SQL",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "Spark",
+      "amount": "85"
+    },
+    { "id": 3, "skillName": "ML libraries", "amount": "85" },
+    {
+      "id": 4,
+      "skillName": "JavaScript",
+      "amount": "80"
+    },
+    {
+      "id": 5,
+      "skillName": "Java",
+      "amount": "70"
+    },
+    { "id": 6, "skillName": "C", "amount": "70" },
+    { "id": 7, "skillName": "Firebase", "amount": "70" },
+    {
+      "id": 8,
+      "skillName": "AWS",
+      "amount": "60"
+    }
+  ]
+}
