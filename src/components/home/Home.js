@@ -8,7 +8,7 @@ import Typewriter from 'typewriter-effect'
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
-import profile from '../../images/andrea.png'
+import profile from '../../images/matteo.png'
 import linkedin from '../../images/contact/linkedin.png'
 
 const Home = () => {
@@ -26,7 +26,7 @@ const Home = () => {
               onLoad={() => setImageLoaded(true)}
             />
             <h1 className="greeting-text">
-              Hi, I'm <span className="name">Andrea Ghiglione</span>{' '}
+              Hi, I'm <span className="name">Matteo Merlo</span>{' '}
               <span className="wave-emoji" role="img" aria-label="waving hand">
                 👋
               </span>
