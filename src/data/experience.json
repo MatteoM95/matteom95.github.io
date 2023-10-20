@@ -8,17 +8,34 @@
       "dateFrom": "September 2018",
       "dateTo": "July 2019",
       "info": [
-        "Retrieve and analyze meteorological data in GRIB2 format from NOAA for a specified area of interest.",
-        "Try to find the best flight route planner through clouds using algorithms such as Dijkstra and A* in C++, Java and C#."
+        "Retrieved and analyzed meteorological data in the GRIB2 format from NOAA for a specified area of interest.",
+        "Attempted to determine the optimal flight route through clouds using pathfinding algorithms such as Dijkstra and A*, implemented in C++, Java, and C#."
       ],
-      "stack": ["C++", "C#", "GRIB"],
+      "stack": ["C++", "C#", "Path Planning", "GRIB"],
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
       "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)",
-      "pathImage": "static/media/background/flight.png"
+      "pathImage": "src/media/background/flight.png"
     },
     {
       "id": 1,
+      "link": "https://github.com/MatteoM95/Twitter-Sentiment-Analisys",
+      "company": "Politecnico di Torino",
+      "title": "Twitter Sentiment Analisys",
+      "dateFrom": "January 2022",
+      "dateTo": "February 2022",
+      "info": [
+        "In this project is proposed a study on a dataset of tweets using machine learning techniques to conduct sentiment analysis",
+        "The objective is to predict the sentiment associated with a tweet based on its text content. Achieved a F1 score of 0.85 using a Tf-idf Vectorizer"
+      ],
+      "stack": ["Python", "Scikit-Learn", "Pandas"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "pathImage": "src/media/background/twitter.png"
+    },
+    {
+      "id": 2,
       "link": "https://github.com/MatteoM95/Smart-Home-Vigilance-System",
       "company": "Politecnico di Torino",
       "title": "Smart Home Surveillance System",
@@ -32,10 +49,10 @@
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
       "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)",
-      "pathImage": "static/media/background/security.png"
+      "pathImage": "src/media/background/security.png"
     },
     {
-      "id": 2,
+      "id": 3,
       "link": "https://github.com/MatteoM95/Default-of-Credit-Card-Clients-Dataset-Analisys",
       "company": "Politecnico di Torino",
       "title": "Default of Credit Card Clients Dataset Analysis",
@@ -49,10 +66,10 @@
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
       "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)",
-      "pathImage": "static/media/background/card.png"
+      "pathImage": "src/media/background/card.png"
     },
     {
-      "id": 3,
+      "id": 4,
       "link": "https://github.com/MatteoM95/Real-time-Domain-Adaptation-in-Semantic-Segmentation",
       "company": "Politecnico di Torino",
       "title": "Real time Domain Adaptation in Semantic Segmentation",
@@ -66,10 +83,10 @@
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
       "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)",
-      "pathImage": "static/media/background/idda.png"
+      "pathImage": "src/media/background/idda.png"
     },
     {
-      "id": 4,
+      "id": 5,
       "link": "https://github.com/MatteoM95/Multitask-segmentation-from-satellite-imagery-for-burned-area-delineation-and-severity-estimation",
       "company": "Links Foundation",
       "title": "Multitask segmentation from satellite imagery for burned area delineation and severity estimation",
@@ -79,11 +96,11 @@
         "A multi-task learning semantic segmentation approach is employed for targeting both wildfire delineation and burn severity estimation.",
         "By exploiting a large dataset of images from past wildfires and integrating both tasks into a single network can exceed the state-of-the-art results on this topic."
       ],
-      "stack": ["Python", "Pytorch", "GIS"],
+      "stack": ["Python", "Pytorch", "GIS", "CUDA"],
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #98cff0, #62b9e9)",
       "colourSecondary": "linear-gradient(to bottom, #98cff0, #62b9e9)",
-      "pathImage": "static/media/background/wildfire.png"
+      "pathImage": "src/media/background/wildfire.png"
     }
   ]
 }
