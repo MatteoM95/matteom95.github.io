@@ -140,7 +140,7 @@ const Projects = () => {
             <div className="more-projects-wrapper">
               <a
                 className="project-link"
-                href={'https://github.com/AndreaGhiglione'}
+                href={'https://github.com/MatteoM95'}
                 target="_blank"
                 rel="noopener noreferrer"
               >

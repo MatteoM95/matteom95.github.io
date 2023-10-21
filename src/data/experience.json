@@ -77,7 +77,7 @@
       "dateTo": "July 2021",
       "info": [
         "Project on computer vision focusing on image processing for realtime applications within the realm of autonomous driving solutions.",
-        "By using a domain adaptation in combination with a style transfer techniques, it is possible to overcome the problem of large annotated datasets for semantic segmentation."
+        "By using a domain adaptation in combination with a style transfer techniques, it is possible to overcome the challenge of annotating large datasets for semantic segmentation."
       ],
       "stack": ["Python", "Pytorch", "CUDA"],
       "logoheight": 80,
@@ -94,7 +94,7 @@
       "dateTo": "July 2023",
       "info": [
         "A multi-task learning semantic segmentation approach is employed for targeting both wildfire delineation and burn severity estimation.",
-        "By exploiting a large dataset of images from past wildfires and integrating both tasks into a single network can exceed the state-of-the-art results on this topic."
+        "By exploiting a large dataset of images from past wildfires and integrating both tasks into a single network it can possible to exceed the state-of-the-art results on this topic."
       ],
       "stack": ["Python", "Pytorch", "GIS", "CUDA"],
       "logoheight": 80,
