@@ -87,6 +87,23 @@
     },
     {
       "id": 5,
+      "link": "https://github.com/MatteoM95/CEMS-Wildfire-Dataset",
+      "company": "Links Foundation",
+      "title": "CEMS Wildfire - Dataset",
+      "dateFrom": "October 2022",
+      "dateTo": "April 2023",
+      "info": [
+        "The dataset includes annotations for burned area delineation, severity estimation and land cover segmentation, with a focus on European soil.",
+        "The dataset is curated from various sources, including the Copernicus European Monitoring System (EMS) and Sentinel-2 feeds."
+      ],
+      "stack": ["GIS", "Raster", "Polygon", "GeoJSON"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #98cff0, #62b9e9)",
+      "colourSecondary": "linear-gradient(to bottom, #98cff0, #62b9e9)",
+      "pathImage": "src/media/background/CEMS.png"
+    },
+    {
+      "id": 6,
       "link": "https://github.com/MatteoM95/Multitask-segmentation-from-satellite-imagery-for-burned-area-delineation-and-severity-estimation",
       "company": "Links Foundation",
       "title": "Multitask segmentation from satellite imagery for burned area delineation and severity estimation",
