@@ -476,7 +476,17 @@
                         style: {
                             textDecoration: "none"
                         }
-                    }, "Links Foundation"), " ", "(Turin, Italy), with a primary focus on the critical issue of wildfires. This research journey supported by my thesis's supervisors led me to publish my first conference paper, which was honored with the ", " ", r.a.createElement("a", {
+                    }, "Links Foundation"), " ", "(Turin, Italy), with a primary focus on the critical issue of wildfires. This research journey supported by my thesis's supervisors led me to publish my first"," ", r.a.createElement("a", {
+                        className: "textLink",
+                        href: "https://arxiv.org/abs/2309.08368",
+                        target: "_blank",
+                        spy: !0,
+                        smooth: !0,
+                        duration: 500,
+                        style: {
+                            textDecoration: "none"
+                        }
+                    }, "conference paper"), "", ", which was honored with the ", " ", r.a.createElement("a", {
                         className: "textLink",
                         href: "https://sites.google.com/view/maclean23/program#h.cw4tk4p5bf3x",
                         target: "_blank",
